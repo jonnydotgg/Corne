@@ -1,0 +1,26 @@
+home row mods:
+    Index finger: CTRL
+    Middle finger: ALT
+
+Thumbs:
+    left:
+      big: space
+      middle: backspace
+      edge: layers
+    right:
+      big: return
+      middle: shift
+      edge: layers
+
+disable auto_shift: True
+
+number layer:
+  num pad or num row?
+
+bluetooth layer:
+  probably don't need this...
+
+
+
+      
+        
