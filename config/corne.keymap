@@ -33,9 +33,7 @@
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
         };
-    };
 
-    macros {
         cp: copy {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
